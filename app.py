@@ -1,1 +1,1 @@
-print("version 5.0")
+print("version 6.0")
